@@ -6,7 +6,8 @@ Bu loyiha, o'quvchilarni boshqarish uchun dastur yaratishni maqsad qiladi. Foyda
 ## Loyihaning Tuzilishi
 
 ### `Contact` Struct
-Har bir o'quvchi yoki uning ota-onasining bog'lanish ma'lumotlarini saqlash uchun ishlatiladi:
+Har bir o'quvchi yoki uning ota-onasining bog'lanish ma'lumotlarini saqlas
+h uchun ishlatiladi:
 - **`phone`**: char[] (Telefon raqami)
 - **`email`**: char[] (Elektron pochta manzili)
 
